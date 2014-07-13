@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">InstaFlikr</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro photosgridrow.xml -->
+    <string name = "photoImageContDesc">ImageDesc</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro actionbarflickr.xml -->
+    <string name = "flickrActionbarCont">Flickr ActionBar</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro flickrphotodetailsdialog.xmlxml -->
+    <string name = "downloadPhotoButtonText">Download this photo</string>
+    <string name = "viewBiggerPhotoButtonText">Show this photo in fullscreen</string>
+    <string name = "downloadLargePhoto">Large</string>
+    <string name = "downloadSmallPhoto">Small</string>
+    <string name = "downloadMediumPhoto">Medium</string>
+    <string name = "downloadOriginalPhoto">Original</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro photoslistfragment.xml -->
+    <string name = "flickrMoveToTopCont">Move Grid To Top</string>
+    <string name = "flickrSearchImagesHint">Search for Images&#8230;</string>
+    <string name = "loadingImageDetails">Loading image details&#8230;</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro photofullscreenfragment.xml -->
+    <string name = "flickrOriginalPhotoSizeCont">Original Photo Size&#8230;</string>
+    <string name = "saveFullscreenPhotoText">Save</string>
+    <string name = "showFiltersText">Filters</string>
+    <string name = "loadingFullscreenPhoto">Loading image&#8230;</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro PhotosListFragment.java -->
+    <string name = "NSIDError">Sorry, I could not find the user you are looking for&#8230;</string>
+    <string name = "noResultsFlickr">Sorry, I could not find any photo&#8230;</string>
+    <string name = "couldNotExtractPhotos">Sorry, I could not extract the data from the photo&#8230;</string>
+    <string name = "couldNotUpdateList">Sorry, something went wrong while updating the list&#8230;</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro instagramfragment.xml -->
+    <string name = "instagramIconContDesc">Instagram Icon</string>
+    <string name = "instagramSearchURLHint">Instagram Video URL&#8230;</string>
+    <string name = "instagramDownloadButton">Download Video</string>
+    <string name = "instagramVideoBaseURLHint">Example: http://instagram.com/p/pyzJFeBQTf/</string>
+    <string name = "instagramVideoPreview">Video Preview</string>
+    <string name = "instagramLoadingVideo">Loading the video&#8230;</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro InstagramScreenFragment.java -->
+    <string name = "invalidRegexInstagram">Sorry, that is not a valid Instagram URL&#8230;</string>
+    <string name = "instagramEmptyResponse">Sorry, something went wrong&#8230;</string>
+    <string name = "instagramErrorResponse">Sorry, something went wrong&#8230;. Are you sure this is the correct URL?</string>
+    <string name = "htmlParsedIsNULL">Sorry, I could not extract the data from the video :(</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro photofiltercircular.xml -->
+    <string name = "filterPixelateContDesc">Pixelate</string>
+    <string name = "filterAverageBlurConteDesc">Average Blur</string>
+    <string name = "filterGaussianBlurConteDesc">Gaussian Blur</string>
+    <string name = "filterSoftGlowContDesc">Soft Glow</string>
+    
+    
+    <!-- Strings utilizadas no ficheiro PhotoFullscreenFragment.java -->
+    <string name = "waitImageLoading">Please wait while the image is loading&#8230;</string>
+    <string name = "errorWhileSavingImage">Sorry, the image could not be saved :(</string>
+    <string name = "showCaseViewTitle">Photo Filter</string>
+    <string name = "showCaseViewDesc">Long click on the photo to clear the filters</string>
+    <string name = "preferencesFile">com.pluralism.instaflikr.PREFERENCES</string>
+    <string name = "showCaseKey">seenShowCase</string>
+    <string name = "loadingImageFailed">Sorry, something went wrong while loading the image&#8230;</string>
+    <string name = "imageSavedSuccess">The image was saved with success!</string>
+</resources>

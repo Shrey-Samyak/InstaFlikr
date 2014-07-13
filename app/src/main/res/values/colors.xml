@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name = "actionbarbackground">#1B242C</color>
+    <color name = "white">#FFFFFF</color>
+    <color name = "flickrSearchSolidColor">#CCC4BFB9</color>
+    <color name = "downloadPhotoButtonBackground">#FF5454</color>
+    <color name = "viewBiggerPhotoButtonBackground">#32B1EF</color>
+    <color name = "flickrSearchStroke">#C8A798</color>
+    <color name = "flickrSearchTextColor">#55545A</color>
+    <color name = "instagramBackgroundColor">#416F95</color>
+    <color name = "instagramVideoTextColor">#396999</color>
+    <color name = "instagramEditTextStroke">#9F6F57</color>
+    <color name = "instagramDownloadButtonColor">#66FFBE1A</color>
+    <color name = "instagramVideoPreviewColor">#66BB161E</color>
+    <color name = "downloadButtonLarge">#E8D555</color>
+    <color name = "downloadButtonSmall">#4A4F75</color>
+    <color name = "downloadButtonMedium">#036788</color>
+    <color name = "downloadButtonOriginal">#BFE19D</color>
+    <color name = "overlayColor">#55000000</color>
+</resources>
