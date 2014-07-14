@@ -11,9 +11,10 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.actionbarsherlock.app.SherlockFragment;
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.pluralapps.instaflikr.api.InstagramAPI;
-import com.pluralapps.instaflikr.constants.AppConstants;
 import com.pluralapps.instaflikr.dialogs.InstagramVideoDialog;
 import com.pluralapps.instaflikr.interfaces.InitialSetup;
 import com.pluralapps.instaflikr.loaders.FontLoader;
@@ -178,13 +179,9 @@ public class InstragramScreenFragment extends SherlockFragment implements Initia
 	 */
 	public void launchVideoPreviewDialog(String URL) {
 		try {
-            Bundle extras = new Bundle();
-            extras.putString(AppConstants.VIDEO_PREVIEW_URL_KEY, URL);
-
-			FragmentManager fm = getFragmentManager();
-			InstagramVideoDialog dialog = new InstagramVideoDialog();
-            dialog.setArguments(extras);
-			dialog.show(fm, "dialogInstagramVideoPreview");
+            FragmentManager fm = getFragmentManager();
+            InstagramVideoDialog instagramVideoDialog = InstagramVideoDialog.newInstance(URL);
+            instagramVideoDialog.show(fm, "dialogInstagramVideoPreview");
 		} catch(NullPointerException e) {
 			//Esta excepcao pode ocorrer quando o utilizar fecha o dialog antes de ele estar aberto
 			e.printStackTrace();
@@ -205,6 +202,7 @@ public class InstragramScreenFragment extends SherlockFragment implements Initia
 		instagramVideoPreviewButton.setTypeface(FontLoader.getTypeFace(getSherlockActivity(), FontLoader.ROBOTO_BOLD));
 		searchURL.setTypeface(FontLoader.getTypeFace(getSherlockActivity(), FontLoader.ROBOTO_BOLD));
 		loadingText.setTypeface(FontLoader.getTypeFace(getSherlockActivity(), FontLoader.ROBOTO_BOLD));
+
 
 		//Esconder o texto de loading inicialmente
 		ViewAnimation.getInstance().changeViewVisibility(loadingText, View.INVISIBLE);

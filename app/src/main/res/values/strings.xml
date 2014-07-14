@@ -71,4 +71,10 @@
     <string name = "showCaseKey">seenShowCase</string>
     <string name = "loadingImageFailed">Sorry, something went wrong while loading the image&#8230;</string>
     <string name = "imageSavedSuccess">The image was saved with success!</string>
+
+
+
+    <!-- Strings utilizadas para as estatisticas do Google Analytics -->
+    <string name = "analyticsPhotoListFragment">PhotoListFragment</string>
+    <string name = "photoFullscreenFragment">Photo Fullscreen Fragment</string>
 </resources>

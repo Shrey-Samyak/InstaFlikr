@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+
+<resources>
+    <integer name = "ga_sessionTimeout">300</integer>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name = "ga_autoActivityTracking">true</bool>
+
+
+    <!-- Screen Names -->
+    <screenName name = "com.pluralapps.instaflikr.PhotosListFragment">@string/analyticsPhotoListFragment</screenName>
+    <screenName name = "com.pluralapps.instaflikr.PhotoFullscreenFragment">@string/photoFullscreenFragment</screenName>
+
+
+    <!-- Google Analytics property ID -->
+    <string name = "ga_trackingId">UA-52765133-1</string>
+</resources>

@@ -213,6 +213,7 @@ public class DownloadPhotoDialog extends SherlockDialogFragment implements Initi
 		getDialog().getWindow().setBackgroundDrawable(new ColorDrawable(0));
 
 
+        //Iniciar as principais variaveis nesta parte do codigo
         mediaDownloader = new MediaDownloader(getActivity());
         Bundle b = getArguments();
         photo = b.getParcelable(AppConstants.PHOTO_OBJECT_KEY);

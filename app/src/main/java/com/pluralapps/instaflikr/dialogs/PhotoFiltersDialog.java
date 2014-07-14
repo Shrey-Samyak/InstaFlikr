@@ -27,9 +27,14 @@ public class PhotoFiltersDialog extends SherlockDialogFragment implements Initia
 	private OnFilterSelected filterSelected;
 
 
-    public PhotoFiltersDialog() {
-        Bundle b = getArguments();
-        this.bitmapToManipulate = b.getParcelable(AppConstants.BITMAP_TO_MANIPULATE_KEY);
+
+    public static PhotoFiltersDialog newInstance(Bitmap bitmapToManipulate) {
+        PhotoFiltersDialog photoFiltersDialog = new PhotoFiltersDialog();
+        Bundle args = new Bundle();
+        args.putParcelable(AppConstants.BITMAP_TO_MANIPULATE_KEY, bitmapToManipulate);
+        photoFiltersDialog.setArguments(args);
+
+        return photoFiltersDialog;
     }
 	
 	
@@ -203,6 +208,13 @@ public class PhotoFiltersDialog extends SherlockDialogFragment implements Initia
 		filterAverageBlur = (ImageView) view.findViewById(R.id.photoFilterAverageBlur);
 		filterGaussianBlur = (ImageView) view.findViewById(R.id.photoFilterGaussianBlur);
 		filterSoftGlow = (ImageView) view.findViewById(R.id.photoFilterSoftGlow);
+
+
+        //Extrair o Bitmap dos extras
+        Bundle b = getArguments();
+        bitmapToManipulate = b.getParcelable(AppConstants.BITMAP_TO_MANIPULATE_KEY);
+
+
 		//Colocar o fundo transparente
 		getDialog().getWindow().setBackgroundDrawable(new ColorDrawable(0));
 	}

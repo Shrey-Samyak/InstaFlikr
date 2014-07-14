@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import android.annotation.TargetApi;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
@@ -24,6 +23,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.actionbarsherlock.app.SherlockFragment;
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.pluralapps.instaflikr.adapters.PhotoListAdapter;
@@ -50,7 +51,6 @@ public class PhotosListFragment extends SherlockFragment implements InitialSetup
 	private TextView loadingImageDetails;
 	
 
-    @TargetApi(Build.VERSION_CODES.KITKAT)
     @Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);	
@@ -317,5 +317,14 @@ public class PhotosListFragment extends SherlockFragment implements InitialSetup
 		loadingImageDetails.setTypeface(FontLoader.getTypeFace(getSherlockActivity(), FontLoader.ROBOTO_LIGHT));
 		
 		updatePhotosGrid(FlickrAPI.getInstance().getRecentPhotosURL(), false);
+
+
+        /**
+         * Enviar uma estatistica para o Google Analytics a informar
+         * que este SherlockFragment foi aberto
+         */
+        Tracker t = ((MainApplication) getSherlockActivity().getApplicationContext()).getTracker(MainApplication.TrackerName.APP_TRACKER);
+        t.setScreenName(getString(R.string.analyticsPhotoListFragment));
+        t.send(new HitBuilders.AppViewBuilder().build());
 	}
 }

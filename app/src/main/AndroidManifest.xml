@@ -36,6 +36,11 @@
 		<activity android:name="com.startapp.android.publish.AppWallActivity"
           android:theme="@android:style/Theme.Translucent"
           android:configChanges="orientation|keyboardHidden|screenSize" />
+
+
+        <!-- Utilizado no Google Play Services SDK -->
+        <meta-data android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
     </application>
 
 

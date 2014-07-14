@@ -32,6 +32,8 @@ import com.actionbarsherlock.app.SherlockFragment;
 import com.github.amlcurran.showcaseview.ShowcaseView;
 import com.github.amlcurran.showcaseview.targets.Target;
 import com.github.amlcurran.showcaseview.targets.ViewTarget;
+import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.ImageLoadingListener;
@@ -42,7 +44,6 @@ import com.pluralapps.instaflikr.loaders.FontLoader;
 import com.pluralapps.instaflikr.utils.FileUtils;
 import com.pluralapps.instaflikr.utils.StringUtils;
 import com.pluralapps.instaflikr.utils.ViewAnimation;
-import com.pluralapps.instaflikr.R;
 
 
 public class PhotoFullscreenFragment extends SherlockFragment implements
@@ -226,12 +227,9 @@ public class PhotoFullscreenFragment extends SherlockFragment implements
 			Bitmap bm = ((BitmapDrawable) fullScreenPhoto.getDrawable()).getBitmap();
 			if (bm != null) {
 				try {
-                    Bundle extras = new Bundle();
-                    extras.putParcelable(AppConstants.BITMAP_TO_MANIPULATE_KEY, bm);
-					FragmentManager fm = getFragmentManager();
-					PhotoFiltersDialog filterDialog = new PhotoFiltersDialog();
-                    filterDialog.setArguments(extras);
-					filterDialog.show(fm, "filterDialog");
+                    FragmentManager fm = getFragmentManager();
+                    PhotoFiltersDialog photoFiltersDialog = PhotoFiltersDialog.newInstance(bm);
+                    photoFiltersDialog.show(fm, "filtersDialog");
 				} catch (NullPointerException e) {
 					//Ocorre quando o utilizador fecha o programa antes de o dialog abrir
 					e.printStackTrace();
@@ -246,7 +244,7 @@ public class PhotoFullscreenFragment extends SherlockFragment implements
 	
 	//Faz update da foto que esta atualmente na Imageview(com um novo efeito)
 	public void updatePhotoFilter(int style, Object... obj) {
-		Bitmap newBm = null;
+		Bitmap newBm;
 		Bitmap bm = originalImage;
 		if (bm != null) {
 			newBm = BitmapFilter.changeStyle(bm, style, obj);
@@ -353,6 +351,15 @@ public class PhotoFullscreenFragment extends SherlockFragment implements
 		loadingFullscreenPhoto.setTypeface(FontLoader.getTypeFace(getSherlockActivity(), FontLoader.ROBOTO_BOLD));
 		viewTarget = new ViewTarget(view.findViewById(R.id.originalImageFlickr));
 		preferences = getSherlockActivity().getSharedPreferences(getString(R.string.preferencesFile), Context.MODE_PRIVATE);
+
+
+        /**
+         * Carregar os dados para o Google Analytics
+         * Apenas informa que este Fragment foi aberto
+         */
+        Tracker t = ((MainApplication) getSherlockActivity().getApplicationContext()).getTracker(MainApplication.TrackerName.APP_TRACKER);
+        t.setScreenName(getString(R.string.photoFullscreenFragment));
+        t.send(new HitBuilders.AppViewBuilder().build());
 		
 
 		//Ler das preferencias e verificar se a ShowCaseView ja foi mostrada
@@ -373,9 +380,10 @@ public class PhotoFullscreenFragment extends SherlockFragment implements
 		qualities = photo.getQualities();
 		
 		//Se o titulo estiver vazio entao esocndemos a TextView
-		if(photo != null)
-			if(photo.getTitle().isEmpty())
-				ViewAnimation.getInstance().changeViewVisibility(fullscreenPhotoTitle, View.INVISIBLE);
+		if(photo != null) {
+            if (photo.getTitle().isEmpty())
+                ViewAnimation.getInstance().changeViewVisibility(fullscreenPhotoTitle, View.INVISIBLE);
+        }
 	}
 
 	

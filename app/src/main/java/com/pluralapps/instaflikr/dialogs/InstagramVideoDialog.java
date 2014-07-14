@@ -31,11 +31,13 @@ public class InstagramVideoDialog extends SherlockDialogFragment implements Init
 	private OnVideoLoaded videoLoaded;
 
 
-	
-	public InstagramVideoDialog() {
-        Bundle b = getArguments();
-		this.c = getActivity();
-		this.videoURL = b.getString(AppConstants.VIDEO_PREVIEW_URL_KEY);
+    public static InstagramVideoDialog newInstance(String videoURL) {
+        InstagramVideoDialog instagramVideoDialog = new InstagramVideoDialog();
+        Bundle args = new Bundle();
+        args.putString(AppConstants.VIDEO_PREVIEW_URL_KEY, videoURL);
+        instagramVideoDialog.setArguments(args);
+
+        return instagramVideoDialog;
     }
 	
 	
@@ -126,8 +128,16 @@ public class InstagramVideoDialog extends SherlockDialogFragment implements Init
 	@Override
 	public void performInitialSetup(View view) {
 		instagramVideo = (VideoView) view.findViewById(R.id.instagramVideoPreview);
-		//Fundo transparente
-		getDialog().getWindow().setBackgroundDrawable(new ColorDrawable(0));
+
+
+        Bundle b = getArguments();
+        videoURL = b.getString(AppConstants.VIDEO_PREVIEW_URL_KEY);
+        //c representa o Contexto
+        c = getSherlockActivity();
+
+
+        //Fundo transparente
+        getDialog().getWindow().setBackgroundDrawable(new ColorDrawable(0));
 	}
 	
 	
