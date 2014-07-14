@@ -13,6 +13,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.actionbarsherlock.app.SherlockDialogFragment;
+import com.pluralapps.instaflikr.constants.AppConstants;
 import com.pluralapps.instaflikr.interfaces.InitialSetup;
 import cn.Ragnarok.BitmapFilter;
 import com.pluralapps.instaflikr.R;
@@ -24,11 +25,12 @@ public class PhotoFiltersDialog extends SherlockDialogFragment implements Initia
 	private ImageView filterPixelateView, filterAverageBlur, filterGaussianBlur, filterSoftGlow;
 	private Bitmap bitmapToManipulate, newBitmap;
 	private OnFilterSelected filterSelected;
-	
-	
-	public PhotoFiltersDialog(Bitmap bitmapToManipulate) {
-		this.bitmapToManipulate = bitmapToManipulate;
-	}
+
+
+    public PhotoFiltersDialog() {
+        Bundle b = getArguments();
+        this.bitmapToManipulate = b.getParcelable(AppConstants.BITMAP_TO_MANIPULATE_KEY);
+    }
 	
 	
 	@Override
@@ -36,8 +38,9 @@ public class PhotoFiltersDialog extends SherlockDialogFragment implements Initia
 		super.onCreate(savedInstanceState);
 		setStyle(DialogFragment.STYLE_NO_TITLE, android.R.style.Theme_Holo_Dialog);
 	}
-	
-	
+
+
+    //onAttach e chamado quando um fragmento e ligado a uma Activity
 	@Override
 	public void onAttach(Activity activity) {
 		super.onAttach(activity);

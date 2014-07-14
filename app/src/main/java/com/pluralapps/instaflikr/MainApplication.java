@@ -6,7 +6,7 @@ import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;
 import com.nostra13.universalimageloader.core.display.FadeInBitmapDisplayer;
 import com.pluralapps.instaflikr.constants.AppConstants;
-//import com.startapp.android.publish.StartAppSDK;
+import com.startapp.android.publish.StartAppSDK;
 
 import android.graphics.Bitmap;
 import android.app.Application;
@@ -25,6 +25,6 @@ public class MainApplication extends Application {
 		ImageLoaderConfiguration config = new ImageLoaderConfiguration.Builder(getApplicationContext()).threadPoolSize(1).
                 diskCacheExtraOptions(480, 320, null).build();
 		ImageLoader.getInstance().init(config);
-		//StartAppSDK.init(this, AppConstants.DEVELOPER_ID, AppConstants.APP_ID);
+		StartAppSDK.init(this, AppConstants.DEVELOPER_ID, AppConstants.APP_ID);
 	}
 }

@@ -45,4 +45,5 @@ public class AppConstants {
      */
     public static final String VIDEO_PREVIEW_URL_KEY = "url_key";
     public static final String PHOTO_OBJECT_KEY = "photo_key";
+    public static final String BITMAP_TO_MANIPULATE_KEY = "bitmapToManipulate";
 }

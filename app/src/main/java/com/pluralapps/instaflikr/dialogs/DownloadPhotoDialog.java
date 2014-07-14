@@ -3,7 +3,6 @@ package com.pluralapps.instaflikr.dialogs;
 
 import java.util.HashMap;
 
-import android.content.Context;
 import android.content.Intent;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
@@ -26,6 +25,7 @@ import com.pluralapps.instaflikr.loaders.FontLoader;
 import com.pluralapps.instaflikr.net.MediaDownloader;
 import com.pluralapps.instaflikr.types.MediaType;
 import com.pluralapps.instaflikr.R;
+import com.pluralapps.instaflikr.utils.StringUtils;
 
 
 public class DownloadPhotoDialog extends SherlockDialogFragment implements InitialSetup {
@@ -39,13 +39,16 @@ public class DownloadPhotoDialog extends SherlockDialogFragment implements Initi
 	private RelativeLayout downloadButtons;
 	private HashMap<String, String> qualities;
 
-	
-	public DownloadPhotoDialog() {
-        Bundle b = getArguments();
-		mediaDownloader = new MediaDownloader(getActivity());
-        this.photo = b.getParcelable(AppConstants.PHOTO_OBJECT_KEY);
-		this.qualities = photo.getQualities();
-	}
+
+
+    public static DownloadPhotoDialog newInstance(Photo p) {
+        DownloadPhotoDialog f = new DownloadPhotoDialog();
+        Bundle args = new Bundle();
+        args.putParcelable(AppConstants.PHOTO_OBJECT_KEY, p);
+        f.setArguments(args);
+
+        return f;
+    }
 
 
     @Override
@@ -208,6 +211,12 @@ public class DownloadPhotoDialog extends SherlockDialogFragment implements Initi
 		downloadLargeButton.setTypeface(FontLoader.getTypeFace(getSherlockActivity(), FontLoader.ROBOTO_BOLD));
 		downloadMediumButton.setTypeface(FontLoader.getTypeFace(getSherlockActivity(), FontLoader.ROBOTO_BOLD));
 		getDialog().getWindow().setBackgroundDrawable(new ColorDrawable(0));
+
+
+        mediaDownloader = new MediaDownloader(getActivity());
+        Bundle b = getArguments();
+        photo = b.getParcelable(AppConstants.PHOTO_OBJECT_KEY);
+        qualities = photo.getQualities();
 		
 		
 		if(qualities.get(AppConstants.LARGE) == null)

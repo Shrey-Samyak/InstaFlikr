@@ -226,12 +226,14 @@ public class PhotoFullscreenFragment extends SherlockFragment implements
 			Bitmap bm = ((BitmapDrawable) fullScreenPhoto.getDrawable()).getBitmap();
 			if (bm != null) {
 				try {
+                    Bundle extras = new Bundle();
+                    extras.putParcelable(AppConstants.BITMAP_TO_MANIPULATE_KEY, bm);
 					FragmentManager fm = getFragmentManager();
-					PhotoFiltersDialog filterDialog = new PhotoFiltersDialog(bm);
+					PhotoFiltersDialog filterDialog = new PhotoFiltersDialog();
+                    filterDialog.setArguments(extras);
 					filterDialog.show(fm, "filterDialog");
 				} catch (NullPointerException e) {
-					// Ocorre quando o utilizador fecha o programa antes de o
-					// dialog abrir
+					//Ocorre quando o utilizador fecha o programa antes de o dialog abrir
 					e.printStackTrace();
 				}
 			}

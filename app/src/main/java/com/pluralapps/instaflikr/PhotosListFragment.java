@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import android.annotation.TargetApi;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
 import android.view.KeyEvent;
@@ -48,6 +50,7 @@ public class PhotosListFragment extends SherlockFragment implements InitialSetup
 	private TextView loadingImageDetails;
 	
 
+    @TargetApi(Build.VERSION_CODES.KITKAT)
     @Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);	
@@ -170,12 +173,9 @@ public class PhotosListFragment extends SherlockFragment implements InitialSetup
 		try {
             //So vamos iniciar o SherlockDialog se o objecto do tipo Photo nao for null
             if(photo != null) {
-                Bundle extras = new Bundle();
-                extras.putParcelable(AppConstants.PHOTO_OBJECT_KEY, photo);
                 FragmentManager fm = getFragmentManager();
-                DownloadPhotoDialog downloadPhotoDialog = new DownloadPhotoDialog();
-                downloadPhotoDialog.setArguments(extras);
-                downloadPhotoDialog.show(fm, "downloadPhotoDialog");
+                DownloadPhotoDialog downloadPhotoDialog = DownloadPhotoDialog.newInstance(photo);
+                downloadPhotoDialog.show(fm, "donwloadPhotoDialog");
             }
 		} catch(NullPointerException e) {
 			//Esta excepcao pode ocorrer quando o utilizador fecha o programa antes de o dialog abrir
