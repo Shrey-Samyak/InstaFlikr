@@ -60,8 +60,12 @@
     <string name="instagramEmptyResponse">Algo está errado…</string>
     <string name="instagramErrorResponse">Algo está errado…. Tem a certeza que este é o endereço correto?</string>
     <string name="instagramLoadingVideo">A carregar o vídeo…</string>
+    <string name="instagramLoadingVideoDetails">A carregar detalhes do vídeo…</string>
+    <string name="instagramSaveImage">Baixar imagem</string>
+    <string name="instagramSaveVideo">Baixar vídeo</string>
     <string name="instagramSearchURLHint">Endereço do vídeo…</string>
     <string name="instagramVideoBaseURLHint">Exemplo: http://instagram.com/p/pyzJFeBQTf/</string>
+    <string name="instagramVideoNotDefined">Tens que escrever um endereço do Instagram válido…</string>
     <string name="instagramVideoPreview">Ver vídeo</string>
     <string name="invalidRegexInstagram">Não é um endereço válido do Instagram…</string>
     <string name="loadingFullscreenPhoto">A carregar a imagem…</string>

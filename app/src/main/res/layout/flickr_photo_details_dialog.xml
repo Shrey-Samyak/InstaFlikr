@@ -1,0 +1,98 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<RelativeLayout
+    xmlns:android = "http://schemas.android.com/apk/res/android"
+    android:layout_width = "wrap_content"
+    android:layout_height = "wrap_content"
+    android:layout_centerInParent="true">
+    
+    <Button
+        android:id = "@+id/downloadPhotoButton"
+        android:layout_width = "fill_parent"
+        android:layout_height = "wrap_content"
+        android:layout_marginLeft = "15dp"
+        android:layout_marginRight = "15dp"
+        android:background = "@drawable/download_photo_button"
+        android:text = "@string/downloadPhotoButtonText"
+        android:textSize = "15sp"
+        android:textColor = "@color/white" />
+    
+    
+    <RelativeLayout
+        android:id = "@+id/downloadFlickrQualities"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:layout_below = "@+id/downloadPhotoButton">
+        
+        
+        <Button
+            android:id = "@+id/downloadPhotoSmall"
+            android:layout_width = "fill_parent"
+            android:layout_height = "wrap_content"
+            android:layout_marginTop = "15dp"
+            android:layout_marginLeft = "15dp"
+        	android:layout_marginRight = "15dp"
+        	android:background = "@drawable/download_photo_small"
+        	android:text = "@string/downloadSmallPhoto"
+        	android:textSize = "15sp"
+        	android:textColor = "@color/white" />
+        
+        
+        <Button
+            android:id = "@+id/downloadPhotoMedium"
+            android:layout_width = "fill_parent"
+            android:layout_height = "wrap_content"
+            android:layout_below = "@+id/downloadPhotoSmall"
+            android:layout_marginTop = "15dp"
+        	android:layout_marginLeft = "15dp"
+        	android:layout_marginRight = "15dp"
+        	android:background = "@drawable/download_photo_medium"
+        	android:text = "@string/downloadMediumPhoto"
+        	android:textSize = "15sp"
+        	android:textColor = "@color/white" />
+        
+        
+        <Button
+            android:id = "@+id/downloadPhotoLarge"
+            android:layout_width = "fill_parent"
+            android:layout_height = "wrap_content"
+            android:layout_below = "@+id/downloadPhotoMedium"
+            android:background = "@drawable/download_photo_large"
+            android:layout_marginTop = "15dp"
+        	android:layout_marginLeft = "15dp"
+        	android:layout_marginRight = "15dp"
+            android:text = "@string/downloadLargePhoto"
+            android:textSize = "15sp"
+            android:textColor = "@color/white" />
+        
+        
+        
+        <Button
+            android:id = "@+id/downloadPhotoOriginal"
+            android:layout_width = "fill_parent"
+            android:layout_height = "wrap_content"
+            android:layout_below = "@+id/downloadPhotoLarge"
+            android:background = "@drawable/download_photo_original"
+            android:layout_marginTop = "15dp"
+        	android:layout_marginLeft = "15dp"
+        	android:layout_marginRight = "15dp"
+        	android:text = "@string/downloadOriginalPhoto"
+        	android:textSize = "15sp"
+            android:textColor = "@color/white" />
+    </RelativeLayout>
+    
+    
+    <Button
+        android:id = "@+id/viewPhotoBiggerButton"
+        android:layout_width = "fill_parent"
+        android:layout_height = "wrap_content"
+        android:layout_below = "@+id/downloadFlickrQualities"
+        android:layout_marginTop = "15dp"
+        android:layout_marginLeft = "15dp"
+        android:layout_marginRight = "15dp"
+        android:layout_marginBottom = "15dp"
+        android:background = "@drawable/view_bigger_photo_button"
+        android:text = "@string/viewBiggerPhotoButtonText"
+        android:textSize = "15sp"
+        android:textColor = "@color/white" />
+</RelativeLayout>

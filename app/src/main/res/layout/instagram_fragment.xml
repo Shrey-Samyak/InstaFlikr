@@ -1,0 +1,115 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/instagramBackgroundColor">
+
+
+    <TextView
+        android:id="@+id/instagramText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/instagramVideourl"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginBottom="60dp"
+        android:text="@string/instagramText"
+        android:textColor="@color/white"
+        android:textSize="36sp"/>
+
+    <EditText
+        android:id="@+id/instagramVideourl"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/instagram_video_edittext"
+        android:gravity="center"
+        android:hint="@string/instagramVideoBaseURLHint"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="16sp" />
+
+
+    <RelativeLayout
+        android:id="@+id/instagramActionsLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/instagramVideourl"
+        android:padding="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+>
+
+
+        <Button
+            android:id="@+id/saveImageButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/instagram_save_image_button"
+            android:text="@string/instagramSaveImage"
+            android:textSize="15sp"
+            android:textColor="@color/white" />
+
+
+        <Button
+            android:id="@+id/videoPreviewButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/instagram_video_preview_button"
+            android:text="@string/instagramVideoPreview"
+            android:textSize="15sp"
+            android:textColor="@color/white" />
+
+
+
+        <Button
+            android:id="@+id/saveVideoButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/instagram_save_video_button"
+            android:text="@string/instagramSaveVideo"
+            android:textSize="15sp"
+            android:textColor="@color/white"/>
+
+    </RelativeLayout>
+
+
+
+    <TextView
+        android:id="@+id/videoLoadingText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bannerAd"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="@string/instagramLoadingVideo"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/loadingVideoDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bannerAd"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="@string/instagramLoadingVideoDetails"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+    
+
+	<com.startapp.android.publish.banner.Banner
+	    android:id = "@+id/bannerAd"
+	    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

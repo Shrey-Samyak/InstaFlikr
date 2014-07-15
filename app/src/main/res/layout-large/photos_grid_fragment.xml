@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/trees_superblur"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true" >
+
+    <GridView
+        android:id="@+id/photosGrid"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:columnWidth="200dp"
+        android:gravity="center"
+        android:numColumns="@integer/photos_column_count_large"
+        android:horizontalSpacing="10dp"
+        android:verticalSpacing="10dp"
+        android:stretchMode="columnWidth" />
+
+    <ImageView
+        android:id="@+id/flickrMoveListToTop"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/flickrMoveToTopCont"
+        android:src="@drawable/flickr_move_to_top" />
+
+    <TextView
+        android:id="@+id/loadingImageDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/flickrSearchImages"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:background="@color/overlayColor"
+        android:text="@string/loadingImageDetails"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/flickrSearchImages"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/flickr_search_edittext"
+        android:hint="@string/flickrSearchImagesHint"
+        android:singleLine="true"
+        android:textColor="@color/flickrSearchTextColor"
+        android:textSize="14sp" />
+
+</RelativeLayout>

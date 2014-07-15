@@ -4,8 +4,12 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:shape="rectangle">
 
+    <solid
+        android:color="@android:color/transparent" />
+
 
     <stroke
         android:width="2dp"
-        android:color="@color/instagramActionsCenter" />
+        android:color="@color/instagramActionsLayout" />
+
 </shape><!-- From: file:/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/drawable/instagram_actions_background.xml -->

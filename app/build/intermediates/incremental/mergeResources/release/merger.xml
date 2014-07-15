@@ -13628,6 +13628,16 @@ false
                 qualifiers=""
                 type="drawable" />
             <file
+                name="instagram_save_image_button"
+                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/drawable/instagram_save_image_button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="instagram_save_video_button"
+                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/drawable/instagram_save_video_button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
                 name="instagram_video_edittext"
                 path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/drawable/instagram_video_edittext.xml"
                 qualifiers=""
@@ -13638,23 +13648,8 @@ false
                 qualifiers=""
                 type="drawable" />
             <file
-                name="instagrambackground"
-                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/drawable/instagrambackground.jpg"
-                qualifiers=""
-                type="drawable" />
-            <file
                 name="progress_horizontal_flickrtheme"
                 path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/drawable/progress_horizontal_flickrtheme.xml"
-                qualifiers=""
-                type="drawable" />
-            <file
-                name="save_image_button"
-                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/drawable/save_image_button.xml"
-                qualifiers=""
-                type="drawable" />
-            <file
-                name="save_video_button"
-                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/drawable/save_video_button.xml"
                 qualifiers=""
                 type="drawable" />
             <file
@@ -14310,9 +14305,7 @@ false
             <file
                 path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/values/colors.xml"
                 qualifiers="" >
-                <color name="saveImageButtonBackgroundColor" >#49C2B7
-                </color>
-                <color name="saveVideoButtonBackgroundColor" >#EF7E67
+                <color name="instagramDownloadButtonColor" >#A8A7A7
                 </color>
                 <color name="flickrSearchTextColor" >#55545A
                 </color>
@@ -14322,9 +14315,9 @@ false
                 </color>
                 <color name="downloadButtonSmall" >#4A4F75
                 </color>
-                <color name="instagramEditTextStroke" >#9F6F57
+                <color name="instagramSaveImage" >#13B4F0
                 </color>
-                <color name="instagramVideoPreviewColor" >#3885D7
+                <color name="instagramEditTextStroke" >#9F6F57
                 </color>
                 <color name="overlayColor" >#55000000
                 </color>
@@ -14334,19 +14327,19 @@ false
                 </color>
                 <color name="flickrSearchSolidColor" >#CCC4BFB9
                 </color>
-                <color name="instagramVideoTextColor" >#396999
+                <color name="instagramVideoPreviewButtonColor" >#FFA44D
                 </color>
                 <color name="downloadButtonMedium" >#036788
                 </color>
+                <color name="instagramActionsLayout" >#FBD2CE
+                </color>
                 <color name="downloadPhotoButtonBackground" >#FF5454
                 </color>
-                <color name="instagramBackgroundColor" >#416F95
+                <color name="instagramBackgroundColor" >#1B1B1B
                 </color>
                 <color name="flickrSearchStroke" >#C8A798
                 </color>
                 <color name="white" >#FFFFFF
-                </color>
-                <color name="instagramActionsCenter" >#33B8F7
                 </color>
             </file>
             <file
@@ -14377,7 +14370,7 @@ false
                 </string>
                 <string name="loadingImageDetails" >Loading image details…
                 </string>
-                <string name="instagramDownloadButton" >Download Video
+                <string name="instagramText" >Instagram
                 </string>
                 <string name="instagramErrorResponse" >Sorry, something went wrong…. Are you sure this is the correct URL?
                 </string>
@@ -14388,6 +14381,8 @@ false
                 <string name="couldNotUpdateList" >Sorry, something went wrong while updating the list…
                 </string>
                 <string name="instagramVideoPreview" >Video Preview
+                </string>
+                <string name="instagramVideoNotDefined" >You have not provided a valid Instagram address…
                 </string>
                 <string name="imageSavedSuccess" >The image was saved with success!
                 </string>
@@ -14421,11 +14416,11 @@ false
                 </string>
                 <string name="downloadPhotoButtonText" >Download this photo
                 </string>
-                <string name="instagramIconContDesc" >Instagram Icon
-                </string>
                 <string name="analyticsPhotoListFragment" >PhotoListFragment
                 </string>
                 <string name="showCaseViewTitle" >Photo Filter
+                </string>
+                <string name="instagramLoadingVideoDetails" >Loading video details…
                 </string>
                 <string name="downloadSmallPhoto" >Small
                 </string>
@@ -14453,7 +14448,7 @@ false
                 </string>
                 <string name="flickrMoveToTopCont" >Move Grid To Top
                 </string>
-                <string name="instagramSaveImage" >Save image
+                <string name="instagramSaveImage" >Save Image
                 </string>
                 <string name="preferencesFile" >com.pluralism.instaflikr.PREFERENCES
                 </string>
@@ -14590,6 +14585,8 @@ false
             <file
                 path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/values-pt/strings.xml"
                 qualifiers="pt" >
+                <string name="instagramSaveVideo" >Baixar vídeo
+                </string>
                 <string name="instagramVideoBaseURLHint" >Exemplo: http://instagram.com/p/pyzJFeBQTf/
                 </string>
                 <string name="imageSavedSuccess" >A imagem foi gravada com sucesso!
@@ -14612,6 +14609,8 @@ false
                 </string>
                 <string name="invalidRegexInstagram" >Não é um endereço válido do Instagram…
                 </string>
+                <string name="instagramSaveImage" >Baixar imagem
+                </string>
                 <string name="downloadPhotoButtonText" >Baixar esta imagem
                 </string>
                 <string name="instagramLoadingVideo" >A carregar o vídeo…
@@ -14621,6 +14620,8 @@ false
                 <string name="loadingImageFailed" >Ocorreu um erro ao carregar a imagem…
                 </string>
                 <string name="instagramErrorResponse" >Algo está errado…. Tem a certeza que este é o endereço correto?
+                </string>
+                <string name="instagramVideoNotDefined" >Tens que escrever um endereço do Instagram válido…
                 </string>
                 <string name="downloadSmallPhoto" >Pequeno
                 </string>
@@ -14647,6 +14648,8 @@ false
                 <string name="showCaseViewDesc" >Pressione a imagem para limpar os filtros
                 </string>
                 <string name="instagramDownloadButton" >Baixar vídeo
+                </string>
+                <string name="instagramLoadingVideoDetails" >A carregar detalhes do vídeo…
                 </string>
                 <string name="instagramSearchURLHint" >Endereço do vídeo…
                 </string>

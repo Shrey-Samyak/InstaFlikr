@@ -52,14 +52,13 @@
     <color name="flickrSearchSolidColor">#CCC4BFB9</color>
     <color name="flickrSearchStroke">#C8A798</color>
     <color name="flickrSearchTextColor">#55545A</color>
-    <color name="instagramActionsCenter">#33B8F7</color>
-    <color name="instagramBackgroundColor">#416F95</color>
+    <color name="instagramActionsLayout">#FBD2CE</color>
+    <color name="instagramBackgroundColor">#1B1B1B</color>
+    <color name="instagramDownloadButtonColor">#A8A7A7</color>
     <color name="instagramEditTextStroke">#9F6F57</color>
-    <color name="instagramVideoPreviewColor">#3885D7</color>
-    <color name="instagramVideoTextColor">#396999</color>
+    <color name="instagramSaveImage">#13B4F0</color>
+    <color name="instagramVideoPreviewButtonColor">#FFA44D</color>
     <color name="overlayColor">#55000000</color>
-    <color name="saveImageButtonBackgroundColor">#49C2B7</color>
-    <color name="saveVideoButtonBackgroundColor">#EF7E67</color>
     <color name="viewBiggerPhotoButtonBackground">#32B1EF</color>
     <!-- From: file:/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/res/values/wallet_colors.xml -->
     <eat-comment />
@@ -820,15 +819,16 @@
     <string name="flickrSearchImagesHint">Search for Images…</string>
     <string name="htmlParsedIsNULL">Sorry, I could not extract the data from the video :(</string>
     <string name="imageSavedSuccess">The image was saved with success!</string>
-    <string name="instagramDownloadButton">Download Video</string>
     <string name="instagramEmptyResponse">Sorry, something went wrong…</string>
     <string name="instagramErrorResponse">Sorry, something went wrong…. Are you sure this is the correct URL?</string>
-    <string name="instagramIconContDesc">Instagram Icon</string>
     <string name="instagramLoadingVideo">Loading the video…</string>
-    <string name="instagramSaveImage">Save image</string>
+    <string name="instagramLoadingVideoDetails">Loading video details…</string>
+    <string name="instagramSaveImage">Save Image</string>
     <string name="instagramSaveVideo">Save Video</string>
     <string name="instagramSearchURLHint">Instagram Video URL…</string>
+    <string name="instagramText">Instagram</string>
     <string name="instagramVideoBaseURLHint">Example: http://instagram.com/p/pyzJFeBQTf/</string>
+    <string name="instagramVideoNotDefined">You have not provided a valid Instagram address…</string>
     <string name="instagramVideoPreview">Video Preview</string>
     <string name="invalidRegexInstagram">Sorry, that is not a valid Instagram URL…</string>
     <!-- From: file:/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/lib/unspecified/res/values/values.xml -->

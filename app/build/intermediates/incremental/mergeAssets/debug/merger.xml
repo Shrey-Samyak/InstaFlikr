@@ -22,14 +22,14 @@
     <dataSet config="main" >
         <source path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets" >
             <file
+                name="fonts/InfernosSpicy.ttf"
+                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets/fonts/InfernosSpicy.ttf" />
+            <file
                 name="fonts/Roboto-Bold.ttf"
                 path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets/fonts/Roboto-Bold.ttf" />
             <file
                 name="fonts/Roboto-Light.ttf"
                 path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets/fonts/Roboto-Light.ttf" />
-            <file
-                name="fonts/Roboto-Thin.ttf"
-                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets/fonts/Roboto-Thin.ttf" />
         </source>
     </dataSet>
     <dataSet config="debug" >

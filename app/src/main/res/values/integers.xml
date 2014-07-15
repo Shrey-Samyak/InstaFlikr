@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<resources>
+    <integer name = "photos_column_count">2</integer>
+    <integer name = "photos_column_count_large">3</integer>
+    <integer name = "photos_column_count_xlarge">4</integer>
+</resources>

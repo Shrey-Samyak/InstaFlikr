@@ -12,13 +12,13 @@
         jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/library/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="22281e385822f05ac61a7f58cf76f88e01505058"/>
+        sha1="9314883e8176b82e3e14b8b063890b8e142c59fe"/>
     <item
         dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-489610b61c3fb2ff99aa49ea26504e009411cbd3.jar"
         jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/circleLayout/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="2b6c44d3df7dd668332ac491df9941f6760c30e7"/>
+        sha1="1963e5d03f9e5f674e644112a35c820d978110e2"/>
     <item
         dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/support-v4-19.1.0-e8eb738a7fcbdadf2cd6adb947ee81ff9b82d40a.jar"
         jar="/Users/pluralism/Desktop/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
@@ -42,7 +42,7 @@
         jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/lib/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="6cfd7c0f57a23821089b780db0b0ec22add3491b"/>
+        sha1="6f7c44a1694c924a5d8aa551066564eac0726439"/>
     <item
         dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-03ae6ba25d62957db463d75fb2b9e1a97996cfb2.jar"
         jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
