@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/library/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/circleLayout/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/lib/unspecified/assets" />
+    </dataSet>
+    <dataSet config="5.0.77" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/assets" />
+    </dataSet>
+    <dataSet config="1.1.1" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.1.1/assets" />
+    </dataSet>
+    <dataSet config="4.4.0" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets" >
+            <file
+                name="fonts/Roboto-Bold.ttf"
+                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets/fonts/Roboto-Bold.ttf" />
+            <file
+                name="fonts/Roboto-Light.ttf"
+                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets/fonts/Roboto-Light.ttf" />
+            <file
+                name="fonts/Roboto-Thin.ttf"
+                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/assets/fonts/Roboto-Thin.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

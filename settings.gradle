@@ -1,3 +1,0 @@
-include ':app', ':library'
-include ':circleLayout'
-include ':lib'

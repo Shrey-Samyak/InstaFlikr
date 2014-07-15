@@ -1,0 +1,105 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/instagrambackground" >
+
+    <ImageView
+        android:id="@+id/instagramIconImage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/instagramVideourl"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp"
+        android:contentDescription="@string/instagramIconContDesc"
+        android:src="@drawable/instagram11" />
+
+
+
+    <EditText
+        android:id="@+id/instagramVideourl"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/instagram_video_edittext"
+        android:gravity="center"
+        android:text="http://instagram.com/p/pyzJFeBQTf/"
+        android:hint="@string/instagramVideoBaseURLHint"
+        android:singleLine="true"
+        android:textColor="@color/instagramVideoTextColor"
+        android:textColorHint="@color/instagramVideoTextColor"
+        android:textSize="16sp" />
+
+
+
+    <RelativeLayout
+        android:id="@+id/instagramTools"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/instagramVideourl"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/instagram_actions_background">
+
+
+        <Button
+            android:id="@+id/saveImageButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/save_image_button"
+            android:text="@string/instagramSaveImage"
+            android:textSize="15sp"
+            android:textColor="@color/white"/>
+
+
+
+        <Button
+            android:id="@+id/saveVideoButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/save_video_button"
+            android:text="@string/instagramSaveVideo"
+            android:textSize="15sp"
+            android:textColor="@color/white"/>
+
+
+        <Button
+            android:id="@+id/videoPreviewButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/instagram_video_preview_button"
+            android:text="@string/instagramVideoPreview"
+            android:textSize="15sp"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+
+
+    <TextView
+        android:id="@+id/videoLoadingText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/instagramTools"
+        android:gravity="center"
+        android:text="@string/instagramLoadingVideo"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+
+
+	<com.startapp.android.publish.banner.Banner
+	    android:id = "@+id/bannerAd"
+	    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout><!-- From: file:/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/layout/instagram_fragment.xml -->
