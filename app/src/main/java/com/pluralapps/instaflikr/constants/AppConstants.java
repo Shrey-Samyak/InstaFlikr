@@ -32,6 +32,7 @@ public class AppConstants {
 	public static final String LARGE = "Large";
 
 
+
     /**
      * Constantes do codigo HTML do Instagram
      */
@@ -42,6 +43,7 @@ public class AppConstants {
     public static final String CONTENT_TAG = "content";
 
 
+
     /**
      * Constantes utilizadas para passar dados entre os fragmentos
      */
@@ -50,9 +52,10 @@ public class AppConstants {
     public static final String BITMAP_TO_MANIPULATE_KEY = "bitmapToManipulate";
 
 
+
     /**
      * Constantes relacionadas com expressoes regulares
      */
     public static final String EMAIL_REGEX = "[A-Za-z_.]+@\\b([a-zA-Z]+.*?).[A-Za-z]+";
-    public static final String INSTAGRAM_REGEX = "https?:\\/\\/instagram.com\\/p\\/([a-zA-Z0-9_]{1,})\\/?";
+    public static final String INSTAGRAM_REGEX = "https?:\\/\\/instagram.com\\/p\\/([a-zA-Z0-9_-]{1,})\\/?";
 }

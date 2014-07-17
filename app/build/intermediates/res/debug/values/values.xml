@@ -617,6 +617,25 @@
         <attr name="sv_showcaseColor" format="color|reference" />
         <attr name="sv_tintButtonColor" format="boolean|reference" />
     </declare-styleable>
+    <!-- From: file:/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/2.0.1/res/values/values.xml -->
+    <eat-comment />
+
+    <declare-styleable name="SlidingUpPanelLayout">
+        <attr name="panelHeight" format="dimension" />
+        <attr name="shadowHeight" format="dimension" />
+        <attr name="paralaxOffset" format="dimension" />
+        <attr name="fadeColor" format="color" />
+        <attr name="flingVelocity" format="integer" />
+        <attr name="dragView" format="reference" />
+        <attr name="overlay" format="boolean" />
+        <attr name="anchorPoint" format="float" />
+        <attr name="initialState" format="enum">
+            <enum name="expanded" value="0" />
+            <enum name="collapsed" value="1" />
+            <enum name="anchored" value="2" />
+            <enum name="hidden" value="3" />
+        </attr>
+    </declare-styleable>
     <!-- From: file:/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/res/values/wallet_attrs.xml -->
     <eat-comment />
 

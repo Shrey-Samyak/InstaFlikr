@@ -63,605 +63,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43f46ff9-5359-4bb6-90a1-ad54eaa74e6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/AverageSmoothFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/AverageSmoothFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/AverageSmoothFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/AverageSmoothFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/BlockFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/BlockFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/BlockFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/BlockFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/BrightContrastFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/BrightContrastFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/BrightContrastFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/BrightContrastFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/ColorTranslator.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/ColorTranslator.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/ColorTranslator.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/ColorTranslator.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/GammaCorrectionFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/GammaCorrectionFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/GammaCorrectionFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/GammaCorrectionFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/GaussianBlurFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/GaussianBlurFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/GaussianBlurFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/GaussianBlurFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/GothamFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/GothamFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/GothamFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/GothamFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/HDRFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/HDRFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/HDRFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/HDRFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/HueSaturationFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/HueSaturationFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/HueSaturationFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/HueSaturationFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/InfernosSpicy.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/LightFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/LightFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/LightFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/LightFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/LomoAddBlackRound.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/LomoAddBlackRound.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/LomoAddBlackRound.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/LomoAddBlackRound.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/MotionBlurFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/MotionBlurFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/MotionBlurFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/MotionBlurFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/NeonFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/NeonFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/NeonFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/NeonFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/OilFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/OilFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/OilFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/OilFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/PixelateFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/PixelateFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/PixelateFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/PixelateFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/ReliefFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/ReliefFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/ReliefFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/ReliefFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/SharpenFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/SharpenFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/SharpenFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/SharpenFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/SketchFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/SketchFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/SketchFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/SketchFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/SoftGlowFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/SoftGlowFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/SoftGlowFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/SoftGlowFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/StartAppInApp-2.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/TvFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/TvFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/TvFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/TvFilter.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ab_bottom_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ab_bottom_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ab_bottom_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ab_bottom_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ab_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ab_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ab_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ab_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ab_stacked_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ab_stacked_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ab_stacked_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ab_stacked_solid_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ab_texture_tile_flickrtheme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ab_texture_tile_flickrtheme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ab_texture_tile_flickrtheme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ab_texture_tile_flickrtheme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ab_transparent_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ab_transparent_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ab_transparent_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ab_transparent_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app-release.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/btn_cab_done_default_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/btn_cab_done_default_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/btn_cab_done_default_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/btn_cab_done_default_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/btn_cab_done_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/btn_cab_done_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/btn_cab_done_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/btn_cab_done_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/btn_cab_done_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/btn_cab_done_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/btn_cab_done_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/btn_cab_done_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-hdpi/btn_cling_normal.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-mdpi/btn_cling_normal.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-xhdpi/btn_cling_normal.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-hdpi/btn_cling_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-mdpi/btn_cling_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-xhdpi/btn_cling_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/cab_background_bottom_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/cab_background_bottom_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/cab_background_bottom_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/cab_background_bottom_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/cab_background_top_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/cab_background_top_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/cab_background_top_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/cab_background_top_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-hdpi/cling.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-mdpi/cling.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-xhdpi/cling.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-xhdpi/cling_bleached.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/cn_Ragnarok_NativeFilterFunc.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/cn_Ragnarok_NativeFilterFunc.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/cn_Ragnarok_NativeFilterFunc.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/cn_Ragnarok_NativeFilterFunc.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/flickr_move_to_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gridrowbackground.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-hdpi/hand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-mdpi/hand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable-xhdpi/hand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/instagram11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/libs/armeabi/libAndroidImageFilter.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/libs/armeabi-v7a/libAndroidImageFilter.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/libs/mips/libAndroidImageFilter.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/libs/x86/libAndroidImageFilter.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/libAndroidImageFilter.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/libAndroidImageFilter.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/libAndroidImageFilter.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/libAndroidImageFilter.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/list_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/list_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/list_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/list_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/list_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/list_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/list_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/list_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/menu_dropdown_panel_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/menu_dropdown_panel_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/menu_dropdown_panel_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_dropdown_panel_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/progress_bg_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/progress_bg_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/progress_bg_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/progress_bg_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/progress_primary_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/progress_primary_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/progress_primary_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/progress_primary_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/progress_secondary_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/progress_secondary_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/progress_secondary_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/progress_secondary_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/spinner_ab_default_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/spinner_ab_default_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/spinner_ab_default_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/spinner_ab_default_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/spinner_ab_disabled_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/spinner_ab_disabled_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/spinner_ab_disabled_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/spinner_ab_disabled_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/spinner_ab_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/spinner_ab_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/spinner_ab_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/spinner_ab_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/spinner_ab_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/spinner_ab_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/spinner_ab_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/spinner_ab_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/raw/successful.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tab_selected_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tab_selected_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tab_selected_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tab_selected_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tab_selected_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tab_selected_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tab_selected_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tab_selected_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tab_selected_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tab_selected_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tab_selected_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tab_selected_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tab_unselected_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tab_unselected_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tab_unselected_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tab_unselected_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tab_unselected_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tab_unselected_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tab_unselected_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tab_unselected_focused_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/tab_unselected_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/tab_unselected_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/tab_unselected_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/tab_unselected_pressed_flickrtheme.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/trees_superblur.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/ActionBarReflector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/ActionBarViewWrapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/ActionItemTarget.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/ActionViewTarget.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/Android.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/AndroidImageFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/AnimationFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/AnimatorAnimationFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/ApiUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/AppCompatReflector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/Application.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/AverageSmoothFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/AverageSmoothFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/AverageSmoothFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/AverageSmoothFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/AverageSmoothFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/AverageSmoothFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/BitmapFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/BlockFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/BlockFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/BlockFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/BlockFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/BlockFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/BlockFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/BlockFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/BlurFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/BrightContrastFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/BrightContrastFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/BrightContrastFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/BrightContrastFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/BrightContrastFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/BrightContrastFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/build/generated/source/buildConfig/debug/ru/biovamp/widget/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/build/generated/source/buildConfig/release/ru/biovamp/widget/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/build/generated/source/buildConfig/debug/cn/Ragnarok/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/build/generated/source/buildConfig/release/cn/Ragnarok/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/debug/com/github/amlcurran/showcaseview/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/release/com/github/amlcurran/showcaseview/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/Calculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/src/main/java/ru/biovamp/widget/CircleLayout.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/ColorGetter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/ColorTranslator.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/ColorTranslator.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/ColorTranslator.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/ColorTranslator.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/ColorTranslator.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/ColorTranslator.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/dialogs/DownloadPhotoDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/utils/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/api/FlickrAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/loaders/FontLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/GammaCorrectionFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/GammaCorrectionFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/GammaCorrectionFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/GammaCorrectionFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/GammaCorrectionFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/GammaCorrectionFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/GaussianBlurFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/GaussianBlurFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/GaussianBlurFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/GaussianBlurFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/GaussianBlurFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/GaussianBlurFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/GaussianBlurFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/GothamFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/GothamFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/GothamFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/GothamFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/GothamFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/GothamFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/GothamFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/GrayFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/HDRFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/HDRFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/HDRFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/HDRFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/HDRFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/HDRFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/HDRFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/HueSaturationFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/HueSaturationFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/HueSaturationFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/HueSaturationFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/HueSaturationFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/HueSaturationFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/ImageFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/interfaces/InitialSetup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InstaFlikr.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/api/InstagramAPI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/parcelabletypes/InstagramObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/dialogs/InstagramVideoDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/InstragramScreenFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/InvertFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/LightFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/LightFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/LightFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/LightFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/LightFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/LightFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/LightFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/LomoAddBlackRound.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/LomoAddBlackRound.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/LomoAddBlackRound.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/LomoAddBlackRound.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/LomoAddBlackRound.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/LomoAddBlackRound.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/LomoFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/MainApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/net/MediaDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/types/MediaType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/MotionBlurFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/MotionBlurFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/MotionBlurFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/MotionBlurFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/MotionBlurFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/MotionBlurFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/MotionBlurFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/NativeFilterFunc.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/NeonFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/NeonFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/NeonFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/NeonFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/NeonFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/NeonFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/NeonFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/net/NetworkClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/NewShowcaseDrawer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/OilFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/OilFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/OilFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/OilFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/OilFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/OilFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/OilFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/OldFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/OnShowcaseEventListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/parcelabletypes/Photo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/dialogs/PhotoFiltersDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/PhotoFullscreenActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/PhotoFullscreenFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/adapters/PhotoListAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/types/PhotoQuality.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/PhotosListFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/PixelateFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/PixelateFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/PixelateFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/PixelateFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/PixelateFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/PixelateFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/PixelateFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/PointTarget.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/build/generated/source/r/debug/ru/biovamp/widget/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/build/generated/source/r/release/ru/biovamp/widget/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/build/generated/source/r/debug/cn/Ragnarok/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/build/generated/source/r/release/cn/Ragnarok/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build/generated/source/r/debug/com/github/amlcurran/showcaseview/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build/generated/source/r/release/com/github/amlcurran/showcaseview/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/Reflector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/ReflectorFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/ReliefFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/ReliefFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/ReliefFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/ReliefFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/ReliefFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/ReliefFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/ReliefFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/ScreenSlideActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/SharpenFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/SharpenFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/SharpenFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/SharpenFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/SharpenFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/SharpenFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/SharpenFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/SherlockReflector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/ShotStateStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/ShowcaseAreaCalculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/ShowcaseDrawer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/ShowcaseView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/SketchFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/SketchFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/SketchFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/SketchFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/SketchFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/SketchFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/SketchFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/SoftGlowFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/SoftGlowFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/SoftGlowFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/SoftGlowFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/SoftGlowFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/SoftGlowFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/SoftGlowFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/SquareImageView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/StandardShowcaseDrawer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/StartAppInApp_2_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/utils/StringUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/Target.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/TextDrawer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/TvFilter.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/TvFilter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/java/cn/Ragnarok/TvFilter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/TvFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/TvFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/TvFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/TvFilter.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/Util.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/utils/ViewAnimation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/java/com/github/amlcurran/showcaseview/targets/ViewTarget.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/transformers/ZoomOutPageTransformer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ab_background_textured_flickrtheme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/actionbarsherlock_4_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_async_http_1_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ant_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ant_launcher_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_5_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_analysis_5_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_commons_5_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_tree_5_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm_util_5_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/values/attrs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/backport_util_concurrent_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_cab_done_flickrtheme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/button_normal.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/circleLayout.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/circleimageview_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/classworlds_1_1_alpha_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/drawable/cling_button_bg.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/cn_Ragnarok_NativeFilterFunc.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/jni/cn_Ragnarok_NativeFilterFunc.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi-v7a/objs/AndroidImageFilter/cn_Ragnarok_NativeFilterFunc.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/armeabi/objs/AndroidImageFilter/cn_Ragnarok_NativeFilterFunc.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/mips/objs/AndroidImageFilter/cn_Ragnarok_NativeFilterFunc.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/obj/local/x86/objs/AndroidImageFilter/cn_Ragnarok_NativeFilterFunc.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/download_photo_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/download_photo_large.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/download_photo_medium.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/download_photo_original.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/download_photo_small.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/fadein.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/fadeout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fest_android_1_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fest_assert_core_2_0M10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fest_reflect_1_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fest_util_1_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/flickr_actionbar_background.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/flickr_photo_details_dialog.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/flickr_search_edittext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_slidepager.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fullscreen_title_background.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/xml/global_tracker.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/gradle-mvn-push.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/layout/handy.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/values/ids.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import-summary.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/instagram_actions_background.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/instagram_fragment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/instagram_save_image_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/instagram_save_video_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/instagram_video_edittext.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/instagram_video_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/instagram_video_preview_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/integers.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lib.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/library.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_ant_tasks_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_artifact_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_artifact_manager_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_error_diagnostics_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_model_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_plugin_registry_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_profile_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_project_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_repository_metadata_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/maven_settings_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mockito_all_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/nekohtml_1_9_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/objenesis_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/photo_filter_circular.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/photo_fullscreen_fragment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/photo_fullscreen_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/photos_grid_fragment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout-large/photos_grid_fragment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout-xlarge/photos_grid_fragment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/photos_grid_row.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_5_0_77.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/plexus_container_default_1_0_alpha_9_stable_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/plexus_interpolation_1_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/plexus_utils_1_5_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/progress_horizontal_flickrtheme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robolectric_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/selectable_background_flickrtheme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/layout/showcase_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/spinner_background_ab_flickrtheme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sqlite4java_0_282.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-pt/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circleLayout/src/main/res/values/styleable.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/library/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/tab_indicator_ab_flickrtheme.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/universal_image_loader_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/view_bigger_photo_button.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/vtd_xml_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/wagon_file_1_0_beta_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/wagon_http_lightweight_1_0_beta_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/wagon_http_shared_1_0_beta_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/wagon_provider_api_1_0_beta_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/xercesMinimal_1_9_6_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/InstaFlikr/circleLayout/unspecified/classes.jar" afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/InstaFlikr/circleLayout/unspecified/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/InstaFlikr/lib/unspecified/classes.jar" afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/InstaFlikr/lib/unspecified/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/exploded-aar/InstaFlikr/library/unspecified/classes.jar" afterPath="$PROJECT_DIR$/build/intermediates/exploded-aar/InstaFlikr/library/unspecified/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/library_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/library_2_4_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app-release.apk" afterPath="$PROJECT_DIR$/app/app-release.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/model_data.bin" afterPath="$PROJECT_DIR$/build/intermediates/model_data.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/pluralapps/instaflikr/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/pluralapps/instaflikr/BuildConfig.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/com/pluralapps/instaflikr/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/com/pluralapps/instaflikr/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/cn/Ragnarok/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/cn/Ragnarok/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/actionbarsherlock/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/actionbarsherlock/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/github/amlcurran/showcaseview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/github/amlcurran/showcaseview/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/android/gms/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/pluralapps/instaflikr/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/pluralapps/instaflikr/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/release/cn/Ragnarok/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/release/cn/Ragnarok/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/release/com/actionbarsherlock/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/release/com/actionbarsherlock/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/release/com/github/amlcurran/showcaseview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/release/com/github/amlcurran/showcaseview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/release/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/release/com/google/android/gms/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/release/com/pluralapps/instaflikr/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/release/com/pluralapps/instaflikr/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="InstaFlikr.iws" />
@@ -688,28 +103,28 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="840">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+              <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07050529" vertical-offset="0" max-vertical-offset="851">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state vertical-scroll-proportion="-25.2" vertical-offset="0" max-vertical-offset="825">
+              <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppConstants.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AppConstants.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="960">
-              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.6886017" vertical-offset="134" max-vertical-offset="1005">
+              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -1576,6 +991,11 @@
                 <option name="description" value="Prepare com.google.android.gms:play-services:5.0.77" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareComGoogleAndroidGmsPlayServices5077Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.sothree.slidinguppanel:library:2.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComSothreeSlidinguppanelLibrary201Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare de.hdodenhof:circleimageview:1.1.1" />
@@ -2892,7 +2312,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="9837415648000" />
+        <entry key="$PROJECT_DIR$" value="9837575301000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3059,8 +2479,12 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.hdodenhof/circleimageview/1.1.1/1113dc9c33ef1f7d377cc1f4d57d0d94995293d1/circleimageview-1.1.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.hdodenhof/circleimageview/1.1.1/9f817251012cbb65079e3d9e6d2211f978c4cbf9/circleimageview-1.1.1.aar" />
                             <option value="$PROJECT_DIR$/../adt-bundle-mac-x86_64-20140321/sdk/extras/google/m2repository/com/google/android/gms/play-services/5.0.77/play-services-5.0.77.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sothree.slidinguppanel/library/2.0.1/dc25bd6ef5a5e44faeb15a0ee3009743ea4c19e5/library-2.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sothree.slidinguppanel/library/2.0.1/cef65df8a45264c9e91e0c3b74ea3237f6ec2562/library-2.0.1.aar" />
                             <option value="$PROJECT_DIR$/../adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0-sources.jar" />
                             <option value="$PROJECT_DIR$/../adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/83d41901478fa8795254244acbafd03f14224dab/library-2.4.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar" />
                             <option value="$MODULE_DIR$/libs/StartAppInApp-2.4.1.jar" />
                           </list>
                         </option>
@@ -3443,14 +2867,14 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-pt/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/instagram_fragment.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="159" />
+    <option name="x" value="187" />
     <option name="y" value="22" />
     <option name="width" value="1606" />
     <option name="height" value="974" />
@@ -3502,6 +2926,9 @@
     <panes>
       <pane id="Scope">
         <subPane subId="Project Files" />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
       </pane>
       <pane id="ProjectPane">
         <subPane>
@@ -3558,9 +2985,6 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
       </pane>
     </panes>
   </component>
@@ -3784,8 +3208,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="22" width="1606" height="974" extended-state="0" />
-    <editor active="false" />
+    <frame x="187" y="22" width="1606" height="974" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3798,6 +3222,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.50032157" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.49967846" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -3813,7 +3238,6 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.49967846" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -3839,6 +3263,54 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="840">
+          <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="795">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="960">
+          <caret line="56" column="96" selection-start-line="56" selection-start-column="96" selection-end-line="56" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="795">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="960">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="840">
@@ -4110,23 +3582,23 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="109" max-vertical-offset="960">
-          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07050529" vertical-offset="0" max-vertical-offset="851">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state vertical-scroll-proportion="-25.2" vertical-offset="0" max-vertical-offset="825">
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/pluralapps/instaflikr/constants/AppConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6886017" vertical-offset="134" max-vertical-offset="1005">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
           <folding />
         </state>
       </provider>
