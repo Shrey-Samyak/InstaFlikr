@@ -1566,9 +1566,9 @@ containing a value of this type.
         public static final int edit_query=0x7f090040;
         public static final int expanded=0x7f09000f;
         public static final int filtersLayout=0x7f090065;
-        public static final int flickrImageOverlay=0x7f09006f;
-        public static final int flickrMoveListToTop=0x7f09006b;
-        public static final int flickrSearchImages=0x7f09006d;
+        public static final int flickrImageOverlay=0x7f090070;
+        public static final int flickrMoveListToTop=0x7f09006c;
+        public static final int flickrSearchImages=0x7f09006e;
         public static final int fullscreenPhotoTitle=0x7f090067;
         public static final int grayscale=0x7f09001f;
         public static final int hidden=0x7f090012;
@@ -1582,7 +1582,7 @@ containing a value of this type.
         public static final int instagramVideourl=0x7f090055;
         public static final int listMode=0x7f090006;
         public static final int loadingFulLscreenPhoto=0x7f090064;
-        public static final int loadingImageDetails=0x7f09006c;
+        public static final int loadingImageDetails=0x7f09006d;
         public static final int loadingVideoDetails=0x7f09005c;
         public static final int match_parent=0x7f09001a;
         public static final int monochrome=0x7f090020;
@@ -1595,8 +1595,8 @@ containing a value of this type.
         public static final int photoFilterPixelate=0x7f09005f;
         public static final int photoFilterSoftGlow=0x7f090062;
         public static final int photoFullScreenFragment=0x7f090069;
-        public static final int photoImage=0x7f09006e;
-        public static final int photosGrid=0x7f09006a;
+        public static final int photoImage=0x7f09006f;
+        public static final int photosGrid=0x7f09006b;
         public static final int pie=0x7f090001;
         public static final int production=0x7f090015;
         public static final int sandbox=0x7f090016;
@@ -1614,6 +1614,7 @@ containing a value of this type.
         public static final int strict_sandbox=0x7f090017;
         public static final int tabMode=0x7f090007;
         public static final int terrain=0x7f090004;
+        public static final int textviewTestFragment=0x7f09006a;
         public static final int useLogo=0x7f090008;
         public static final int videoLoadingText=0x7f09005a;
         public static final int videoPreviewButton=0x7f090058;
@@ -1657,11 +1658,12 @@ containing a value of this type.
         public static final int photo_filter_circular=0x7f03001a;
         public static final int photo_fullscreen_fragment=0x7f03001b;
         public static final int photo_fullscreen_layout=0x7f03001c;
-        public static final int photos_grid_fragment=0x7f03001d;
-        public static final int photos_grid_row=0x7f03001e;
-        public static final int sherlock_spinner_dropdown_item=0x7f03001f;
-        public static final int sherlock_spinner_item=0x7f030020;
-        public static final int showcase_button=0x7f030021;
+        public static final int photos_comments_list=0x7f03001d;
+        public static final int photos_grid_fragment=0x7f03001e;
+        public static final int photos_grid_row=0x7f03001f;
+        public static final int sherlock_spinner_dropdown_item=0x7f030020;
+        public static final int sherlock_spinner_item=0x7f030021;
+        public static final int showcase_button=0x7f030022;
     }
     public static final class raw {
         public static final int successful=0x7f060000;

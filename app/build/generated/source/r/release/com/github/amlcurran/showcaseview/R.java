@@ -29,23 +29,23 @@ public final class R {
 		public static final int text_padding = 0x7f0a0012;
 	}
 	public static final class drawable {
-		public static final int btn_cling_normal = 0x7f02007a;
-		public static final int btn_cling_pressed = 0x7f02007b;
-		public static final int button = 0x7f02007c;
-		public static final int button_normal = 0x7f02007d;
-		public static final int cling = 0x7f020080;
-		public static final int cling_bleached = 0x7f020081;
-		public static final int cling_button_bg = 0x7f020082;
-		public static final int hand = 0x7f0200a5;
+		public static final int btn_cling_normal = 0x7f02007c;
+		public static final int btn_cling_pressed = 0x7f02007d;
+		public static final int button = 0x7f02007e;
+		public static final int button_normal = 0x7f02007f;
+		public static final int cling = 0x7f020082;
+		public static final int cling_bleached = 0x7f020083;
+		public static final int cling_button_bg = 0x7f020084;
+		public static final int hand = 0x7f0200a7;
 	}
 	public static final class id {
-		public static final int showcase_button = 0x7f090023;
-		public static final int showcase_sub_text = 0x7f090024;
-		public static final int showcase_title_text = 0x7f090025;
+		public static final int showcase_button = 0x7f090027;
+		public static final int showcase_sub_text = 0x7f090028;
+		public static final int showcase_title_text = 0x7f090029;
 	}
 	public static final class layout {
 		public static final int handy = 0x7f030017;
-		public static final int showcase_button = 0x7f030021;
+		public static final int showcase_button = 0x7f030022;
 	}
 	public static final class string {
 		public static final int ok = 0x7f0c004c;

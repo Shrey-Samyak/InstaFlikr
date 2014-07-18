@@ -8,18 +8,6 @@
         revision="19.1.0"
         sha1="1972d9d7e094b118493327a85760ebb50b8b9373"/>
     <item
-        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-4b50ba603190e314afaac9f3d9a8a0999ae933bc.jar"
-        jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/library/unspecified/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="9314883e8176b82e3e14b8b063890b8e142c59fe"/>
-    <item
-        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-489610b61c3fb2ff99aa49ea26504e009411cbd3.jar"
-        jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/circleLayout/unspecified/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="1963e5d03f9e5f674e644112a35c820d978110e2"/>
-    <item
         dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/support-v4-19.1.0-e8eb738a7fcbdadf2cd6adb947ee81ff9b82d40a.jar"
         jar="/Users/pluralism/Desktop/adt-bundle-mac-x86_64-20140321/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"
@@ -32,29 +20,17 @@
         revision="19.1.0"
         sha1="12356c21c15e847fce0d686b7b2003be119816fe"/>
     <item
-        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/commons-io-2.4-480ea5aeac2e210c45e0d54684dd865b497d4fdd.jar"
-        jar="/Users/pluralism/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/library-2.4.0-615eda3f725931a01ca117ff03b28d7cf0a32bbb.jar"
+        jar="/Users/pluralism/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb"/>
     <item
         dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-4fd3df30fb8d1b20ed1ff06785ce6e69274a6fa6.jar"
         jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/lib/unspecified/classes.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="6f7c44a1694c924a5d8aa551066564eac0726439"/>
-    <item
-        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-03ae6ba25d62957db463d75fb2b9e1a97996cfb2.jar"
-        jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
-    <item
-        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/android-async-http-1.4.5-c10ed702b2d9f4080504451460cabb2af06dae2c.jar"
-        jar="/Users/pluralism/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881"/>
+        sha1="567a5f0aab45ad71f37224f28ad55bcbcb47469f"/>
     <item
         dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/jsoup-1.7.3-7606bbbeaed2e36f322de71f0e4d409c12206a3c.jar"
         jar="/Users/pluralism/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.7.3/92568d7167ce1bf9eb1fd815b022d5a2c113547a/jsoup-1.7.3.jar"
@@ -73,5 +49,41 @@
         jumboMode="false"
         revision="19.1.0"
         sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432"/>
+    <item
+        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-4b50ba603190e314afaac9f3d9a8a0999ae933bc.jar"
+        jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e41874b1ff95f6672b53669cda67b1958a1953b4"/>
+    <item
+        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-489610b61c3fb2ff99aa49ea26504e009411cbd3.jar"
+        jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/InstaFlikr/circleLayout/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="272953de1c6d32a7930938240d6839367d94b1fe"/>
+    <item
+        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-edad30dc853fefc1647136bb690ea58054cef8e4.jar"
+        jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/2.0.1/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7049d768a49b1aad020d9aecdd037f1d9436e11f"/>
+    <item
+        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/commons-io-2.4-480ea5aeac2e210c45e0d54684dd865b497d4fdd.jar"
+        jar="/Users/pluralism/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+    <item
+        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/classes-03ae6ba25d62957db463d75fb2b9e1a97996cfb2.jar"
+        jar="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/pluralism/Desktop/InstaFlikr/app/build/intermediates/pre-dexed/release/android-async-http-1.4.5-c10ed702b2d9f4080504451460cabb2af06dae2c.jar"
+        jar="/Users/pluralism/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.5/77bf7cacf9cefe19dc105e5425d2eb1bb5285881/android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881"/>
 
 </pre-dex-items>

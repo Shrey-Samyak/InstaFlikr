@@ -69,8 +69,7 @@ public class PhotoFullscreenFragment extends SherlockFragment implements
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,
 			Bundle savedInstanceState) {
 		View v;
-		v = inflater
-				.inflate(R.layout.photo_fullscreen_fragment, container, false);
+		v = inflater.inflate(R.layout.photo_fullscreen_fragment, container, false);
 		if (v != null)
 			return v;
 

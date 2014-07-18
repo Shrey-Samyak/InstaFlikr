@@ -304,6 +304,66 @@ bold
             </file>
         </source>
     </dataSet>
+    <dataSet config="2.0.1" >
+        <source path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/2.0.1/res" >
+            <file
+                name="above_shadow"
+                path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/2.0.1/res/drawable/above_shadow.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="below_shadow"
+                path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/2.0.1/res/drawable/below_shadow.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/2.0.1/res/values/values.xml"
+                qualifiers="" >
+                <declare-styleable name="SlidingUpPanelLayout" >
+                    <attr
+                        name="panelHeight"
+                        format="dimension" />
+                    <attr
+                        name="shadowHeight"
+                        format="dimension" />
+                    <attr
+                        name="paralaxOffset"
+                        format="dimension" />
+                    <attr
+                        name="fadeColor"
+                        format="color" />
+                    <attr
+                        name="flingVelocity"
+                        format="integer" />
+                    <attr
+                        name="dragView"
+                        format="reference" />
+                    <attr
+                        name="overlay"
+                        format="boolean" />
+                    <attr
+                        name="anchorPoint"
+                        format="float" />
+                    <attr
+                        name="initialState"
+                        format="enum" >
+                        <enum
+                            name="expanded"
+                            value="0" />
+                        <enum
+                            name="collapsed"
+                            value="1" />
+                        <enum
+                            name="anchored"
+                            value="2" />
+                        <enum
+                            name="hidden"
+                            value="3" />
+                    </attr>
+                </declare-styleable>
+            </file>
+        </source>
+    </dataSet>
     <dataSet config="5.0.77" >
         <source path="/Users/pluralism/Desktop/InstaFlikr/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/res" >
             <file
@@ -14275,6 +14335,11 @@ false
             <file
                 name="photo_fullscreen_layout"
                 path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/layout/photo_fullscreen_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="photos_comments_list"
+                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/layout/photos_comments_list.xml"
                 qualifiers=""
                 type="layout" />
             <file

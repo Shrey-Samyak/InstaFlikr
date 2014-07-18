@@ -14338,6 +14338,11 @@ false
                 qualifiers=""
                 type="layout" />
             <file
+                name="photos_comments_list"
+                path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/layout/photos_comments_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="photos_grid_fragment"
                 path="/Users/pluralism/Desktop/InstaFlikr/app/src/main/res/layout/photos_grid_fragment.xml"
                 qualifiers=""
